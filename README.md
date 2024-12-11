@@ -45,6 +45,8 @@
 
 ## _**ADDITIONAL MATERIALS**_
 
+_**Sample Results: Eroded Pokemon Pictures**_
+
 ![image](https://github.com/user-attachments/assets/42d12c9e-6b4d-4fd3-9e13-a011d774678c)
 
 ![image](https://github.com/user-attachments/assets/9b193da0-64a0-44d9-ad57-69ae7fc26519)
