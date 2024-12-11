@@ -1,5 +1,15 @@
 <h1 align="center"><i>PART 1: 16 BASIC OPENCV PROJECTS</i></h1>
 
+## ___INTRODUCTION___
+
+## _**ABSTRACT**_
+
+## _**PROJECT METHODS**_
+
+## _**CONCLUSION**_
+
+## _**ADDITIONAL MATERIALS**_
+
 <h1 align="center"><i>PART 2: ERODING POKEMON IMAGES</i></h1>
 
 ## ___INTRODUCTION___
