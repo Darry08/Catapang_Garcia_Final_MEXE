@@ -102,3 +102,9 @@ _**Sample Results: Eroded Pokemon Pictures**_
 * Misbah. (n.d.). _GitHub - misbah4064/opencvTutorial: Project Files for OpenCV Tutorial Series_. GitHub. https://github.com/misbah4064/opencvTutorial
 
 * Misbah. (n.d.-a). _GitHub - misbah4064/face_recognition: Repository to assist with face recognition colab notebook_. GitHub. https://github.com/misbah4064/face_recognition.git
+
+* GeeksforGeeks. (2021b, September 24). Python OpenCV Find center of contour. GeeksforGeeks. https://www.geeksforgeeks.org/python-opencv-find-center-of-contour/
+
+* Critterman. (2023b, November 13). The Spiny Bush Viper | Critter Science. Critter Science. https://critter.science/the-spiny-bush-viper/
+
+* Archaeologists unearth huge ancient winery in central Israel. (2022b, October 5). [Video]. NBC News. https://www.nbcnews.com/news/world/gold-coins-hidden-wall-israel-byzantine-empire-rcna50593
