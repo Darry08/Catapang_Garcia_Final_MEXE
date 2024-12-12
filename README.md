@@ -85,6 +85,14 @@ _**Sample Results: Eroded Pokemon Pictures**_
 
 ![image](https://github.com/user-attachments/assets/1e0ceb6c-0041-41fb-9e04-01ec94a8660b)
 
+## _**VIDEO PRESENTATION**_
+
+* **Part 1 - 16 Basic OpenCV Projects**
+  * https://youtu.be/M1OYNcb8iLI
+
+* **Part 2 - Eroding Pokemon Images**
+  * https://youtu.be/boq1xJOgSmA
+
 ## ___REFERENCES___
 
 * Tree. (n.d.). _faceted abstract background in 3d with shimmering iridescent metallic texture of blue violet and pink_. Pngtree. https://pngtree.com/free-abstract-background
@@ -94,9 +102,3 @@ _**Sample Results: Eroded Pokemon Pictures**_
 * Misbah. (n.d.). _GitHub - misbah4064/opencvTutorial: Project Files for OpenCV Tutorial Series_. GitHub. https://github.com/misbah4064/opencvTutorial
 
 * Misbah. (n.d.-a). _GitHub - misbah4064/face_recognition: Repository to assist with face recognition colab notebook_. GitHub. https://github.com/misbah4064/face_recognition.git
-
-* GeeksforGeeks. (2021, September 24). Python OpenCV Find center of contour. GeeksforGeeks. https://www.geeksforgeeks.org/python-opencv-find-center-of-contour/
-
-* Critterman. (2023, November 13). The Spiny Bush Viper | Critter Science. Critter Science. https://critter.science/the-spiny-bush-viper/
-
-* Archaeologists unearth huge ancient winery in central Israel. (2022, October 5). [Video]. NBC News. https://www.nbcnews.com/news/world/gold-coins-hidden-wall-israel-byzantine-empire-rcna50593
